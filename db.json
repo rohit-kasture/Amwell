@@ -1,0 +1,502 @@
+{
+  "mydoctors": [
+    {
+      "fullname": "Dr. Sunny Soni",
+      "number": "8871991729",
+      "password": "11111",
+      "type": "doctor",
+      "speciality": "Homoeopath",
+      "experience": "6 Years Experience Overall",
+      "id": 1,
+      "slotsAvailable": [
+        {
+          "selectedDate": "2021-03-02",
+          "slot": [
+            "01:00AM",
+            "09:00PM",
+            "11:00AM",
+            "09:00AM",
+            "10:00AM",
+            "04:00AM",
+            "05:00AM",
+            "01:00PM",
+            "03:00AM",
+            "05:00PM"
+          ]
+        },
+        {
+          "selectedDate": "2022-03-02",
+          "slot": [
+            "01:00AM",
+            "02:00PM",
+            "07:00PM",
+            "11:00PM",
+            "06:00AM",
+            "06:00PM",
+            "03:00PM",
+            "07:00AM",
+            "02:00AM",
+            "00:00AM",
+            "08:00PM",
+            "03:00AM"
+          ]
+        }
+      ]
+    },
+    {
+      "fullname": "Dr. Murli. Pujari",
+      "number": "8871991729",
+      "password": "22222",
+      "type": "doctor",
+      "speciality": "Homoeopath",
+      "experience": "18 Years Experience Overall",
+      "id": 2,
+      "slotsAvailable": [
+        {
+          "selectedDate": "2021-03-02",
+          "slot": [
+            "01:00AM",
+            "09:00PM",
+            "11:00AM",
+            "09:00AM",
+            "10:00AM",
+            "04:00AM",
+            "05:00AM",
+            "01:00PM",
+            "03:00AM",
+            "05:00PM"
+          ]
+        },
+        {
+          "selectedDate": "2022-03-02",
+          "slot": [
+            "01:00AM",
+            "02:00PM",
+            "07:00PM",
+            "11:00PM",
+            "06:00AM",
+            "06:00PM",
+            "03:00PM",
+            "07:00AM",
+            "02:00AM",
+            "00:00AM",
+            "08:00PM",
+            "03:00AM"
+          ]
+        }
+      ]
+    },
+    {
+      "fullname": "Dr. Shashank K",
+      "number": "8871991729",
+      "password": "33333",
+      "type": "doctor",
+      "speciality": "Homoeopath",
+      "experience": "30 Years Experience Overall",
+      "id": 3,
+      "slotsAvailable": [
+        {
+          "selectedDate": "2021-03-02",
+          "slot": [
+            "01:00AM",
+            "09:00PM",
+            "11:00AM",
+            "09:00AM",
+            "10:00AM",
+            "04:00AM",
+            "05:00AM",
+            "01:00PM",
+            "03:00AM",
+            "05:00PM"
+          ]
+        },
+        {
+          "selectedDate": "2022-03-02",
+          "slot": [
+            "01:00AM",
+            "02:00PM",
+            "07:00PM",
+            "11:00PM",
+            "06:00AM",
+            "06:00PM",
+            "03:00PM",
+            "07:00AM",
+            "02:00AM",
+            "00:00AM",
+            "08:00PM",
+            "03:00AM"
+          ]
+        }
+      ]
+    },
+    {
+      "fullname": "Dr. Deepthi RK Shashidhar",
+      "number": "8871991729",
+      "password": "44444",
+      "type": "doctor",
+      "speciality": "Dentist",
+      "experience": "14 Years Experience Overall",
+      "id": 4,
+      "slotsAvailable": [
+        {
+          "selectedDate": "2021-03-02",
+          "slot": [
+            "01:00AM",
+            "09:00PM",
+            "11:00AM",
+            "09:00AM",
+            "10:00AM",
+            "04:00AM",
+            "05:00AM",
+            "01:00PM",
+            "03:00AM",
+            "05:00PM"
+          ]
+        },
+        {
+          "selectedDate": "2022-03-02",
+          "slot": [
+            "01:00AM",
+            "02:00PM",
+            "07:00PM",
+            "11:00PM",
+            "06:00AM",
+            "06:00PM",
+            "03:00PM",
+            "07:00AM",
+            "02:00AM",
+            "00:00AM",
+            "08:00PM",
+            "03:00AM"
+          ]
+        }
+      ]
+    },
+    {
+      "fullname": "Dr. Archana Agarwal",
+      "number": "8871991729",
+      "password": "55555",
+      "type": "doctor",
+      "speciality": "Dentist",
+      "experience": "10 Years Experience Overall",
+      "id": 5,
+      "slotsAvailable": [
+        {
+          "selectedDate": "2021-03-02",
+          "slot": [
+            "01:00AM",
+            "09:00PM",
+            "11:00AM",
+            "09:00AM",
+            "10:00AM",
+            "04:00AM",
+            "05:00AM",
+            "01:00PM",
+            "03:00AM",
+            "05:00PM"
+          ]
+        },
+        {
+          "selectedDate": "2022-03-02",
+          "slot": [
+            "01:00AM",
+            "02:00PM",
+            "07:00PM",
+            "11:00PM",
+            "06:00AM",
+            "06:00PM",
+            "03:00PM",
+            "07:00AM",
+            "02:00AM",
+            "00:00AM",
+            "08:00PM",
+            "03:00AM"
+          ]
+        }
+      ]
+    },
+    {
+      "fullname": "Dr. Asha.Khatri",
+      "number": "8871991729",
+      "password": "66666",
+      "type": "doctor",
+      "speciality": "Dentist",
+      "experience": "20 Years Experience Overall",
+      "id": 6,
+      "slotsAvailable": [
+        {
+          "selectedDate": "2021-03-02",
+          "slot": [
+            "01:00AM",
+            "09:00PM",
+            "11:00AM",
+            "09:00AM",
+            "10:00AM",
+            "04:00AM",
+            "05:00AM",
+            "01:00PM",
+            "03:00AM",
+            "05:00PM"
+          ]
+        },
+        {
+          "selectedDate": "2022-03-02",
+          "slot": [
+            "01:00AM",
+            "02:00PM",
+            "07:00PM",
+            "11:00PM",
+            "06:00AM",
+            "06:00PM",
+            "03:00PM",
+            "07:00AM",
+            "02:00AM",
+            "00:00AM",
+            "08:00PM",
+            "03:00AM"
+          ]
+        }
+      ]
+    },
+    {
+      "fullname": "Dr. Triveni M P",
+      "number": "8463350654",
+      "password": "77777",
+      "type": "doctor",
+      "speciality": "gynecologist/obstetrician",
+      "experience": "29 Years Experience Overall",
+      "id": 7,
+      "slotsAvailable": [
+        {
+          "selectedDate": "2021-03-02",
+          "slot": [
+            "01:00AM",
+            "09:00PM",
+            "11:00AM",
+            "09:00AM",
+            "10:00AM",
+            "04:00AM",
+            "05:00AM",
+            "01:00PM",
+            "03:00AM",
+            "05:00PM"
+          ]
+        },
+        {
+          "selectedDate": "2022-03-02",
+          "slot": [
+            "01:00AM",
+            "02:00PM",
+            "07:00PM",
+            "11:00PM",
+            "06:00AM",
+            "06:00PM",
+            "03:00PM",
+            "07:00AM",
+            "02:00AM",
+            "00:00AM",
+            "08:00PM",
+            "03:00AM"
+          ]
+        }
+      ]
+    },
+    {
+      "fullname": "Dr. Suman Singh",
+      "number": "8463350654",
+      "password": "88888",
+      "type": "doctor",
+      "speciality": "gynecologist/obstetrician",
+      "experience": "16 Years Experience Overall",
+      "id": 8,
+      "slotsAvailable": [
+        {
+          "selectedDate": "2021-03-02",
+          "slot": [
+            "01:00AM",
+            "09:00PM",
+            "11:00AM",
+            "09:00AM",
+            "10:00AM",
+            "04:00AM",
+            "05:00AM",
+            "01:00PM",
+            "03:00AM",
+            "05:00PM"
+          ]
+        },
+        {
+          "selectedDate": "2022-03-02",
+          "slot": [
+            "01:00AM",
+            "02:00PM",
+            "07:00PM",
+            "11:00PM",
+            "06:00AM",
+            "06:00PM",
+            "03:00PM",
+            "07:00AM",
+            "02:00AM",
+            "00:00AM",
+            "08:00PM",
+            "03:00AM"
+          ]
+        }
+      ]
+    },
+    {
+      "fullname": "Dr. Shilpa G B",
+      "number": "8463350654",
+      "password": "99999",
+      "type": "doctor",
+      "speciality": "gynecologist/obstetrician",
+      "experience": "19 Years Experience Overall  (16 years as specialist)",
+      "id": 9,
+      "slotsAvailable": [
+        {
+          "selectedDate": "2021-03-02",
+          "slot": [
+            "01:00AM",
+            "09:00PM",
+            "11:00AM",
+            "09:00AM",
+            "10:00AM",
+            "04:00AM",
+            "05:00AM",
+            "01:00PM",
+            "03:00AM",
+            "05:00PM"
+          ]
+        },
+        {
+          "selectedDate": "2022-03-02",
+          "slot": [
+            "01:00AM",
+            "02:00PM",
+            "07:00PM",
+            "11:00PM",
+            "06:00AM",
+            "06:00PM",
+            "03:00PM",
+            "07:00AM",
+            "02:00AM",
+            "00:00AM",
+            "08:00PM",
+            "03:00AM"
+          ]
+        }
+      ]
+    }
+  ],
+  "myusers": [
+    {
+      "fullname": "rohit kasture",
+      "number": "9167021923",
+      "password": "Queen@2020",
+      "type": "user",
+      "id": 1
+    },
+    {
+      "fullname": "rahul sharma",
+      "number": "8433507696",
+      "password": "Queen@2020",
+      "type": "user",
+      "id": 2
+    },
+    {
+      "fullname": "Rini Tikarya",
+      "number": "91324823821",
+      "password": "Queen@2020",
+      "type": "user",
+      "id": 3
+    },
+    {
+      "fullname": "Ranbeer Kapoor",
+      "number": "92348872351",
+      "password": "Queen@2020",
+      "type": "user",
+      "id": 4
+    },
+    {
+      "fullname": "renu singh",
+      "number": "8433507696",
+      "password": "Queen@2020",
+      "type": "user",
+      "id": 5
+    }
+  ],
+  "usersbookings": [
+    {
+      "userid": 1,
+      "id": 1,
+      "bookingsbydate": []
+    },
+    {
+      "userid": 2,
+      "id": 2,
+      "bookingsbydate": []
+    },
+    {
+      "userid": 3,
+      "id": 3,
+      "bookingsbydate": []
+    },
+    {
+      "userid": 4,
+      "id": 4,
+      "bookingsbydate": []
+    },
+    {
+      "userid": 5,
+      "id": 5,
+      "bookingsbydate": []
+    }
+  ],
+  "doctorsbookings": [
+    {
+      "docid": 1,
+      "id": 1,
+      "bookingsbydate": []
+    },
+    {
+      "docid": 2,
+      "id": 2,
+      "bookingsbydate": []
+    },
+    {
+      "docid": 3,
+      "id": 3,
+      "bookingsbydate": []
+    },
+    {
+      "docid": 4,
+      "id": 4,
+      "bookingsbydate": []
+    },
+    {
+      "docid": 5,
+      "id": 5,
+      "bookingsbydate": []
+    },
+    {
+      "docid": 6,
+      "id": 6,
+      "bookingsbydate": []
+    },
+    {
+      "docid": 7,
+      "id": 7,
+      "bookingsbydate": []
+    },
+    {
+      "docid": 8,
+      "id": 8,
+      "bookingsbydate": []
+    },
+    {
+      "docid": 9,
+      "id": 9,
+      "bookingsbydate": []
+    }
+  ]
+}
