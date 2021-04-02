@@ -1,3 +1,8 @@
+NOTE:Run below command before starting the APP, use the json server as the database to see the data 
+
+      json-server --watch db.json
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
